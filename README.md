@@ -15,6 +15,6 @@ JustWhen is a class schedule application that lets user know what class they wil
 <p align="center">JustWhen also be able to send a local notification to user when it's time to leave home. So that user (me) won't be late to college.</p>
 
 ## Overall
-JustWhen is an application i made during the new year breaks and it is my first ios application. I wanted to make an application which will help me keeps track on my class schedule and wanted to learn something new. The app is simple and is a good start for beginner. I am working on adding score calculator to the app and calculate an estimated GPA. Also the feature that will let user edit and arrange class within the app.
+JustWhen is an application I created during the new year breaks and it is my first ios application. I wanted to make an application which will help me keeps track on my class schedule and wanted to learn something new. The app is simple and is a good start for beginner. I am working on adding score calculator to the app in order to calculate an estimated GPA. Also the feature that will let user edit and arrange class within the app.
 
 
